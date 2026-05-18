@@ -368,7 +368,7 @@ LEFT JOIN campaign_dim c ON f.campaign_id = c.campaign_id;
 -- COMMAND ----------
 
 -- MAGIC %md
--- MAGIC Returns all rows from sales_fact even if campaign_id has no match in campaign_dim. Missing campaign info shows as NULL.
+-- MAGIC Returns all rows from sales_fact even if campaign_id has no match in campaign_dim. Missing campaigns info shows as NULL.
 
 -- COMMAND ----------
 
