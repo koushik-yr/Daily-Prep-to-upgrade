@@ -17,7 +17,7 @@ This repository contains my day-wise preparation for a Business Intelligence rol
 | Day | Topic | Status |
 |---|---|---|
 | Day 1 | SQL Basics + BI KPI Logic | Completed |
-| Day 2 | SQL Joins + Data Modeling | Pending |
+| Day 2 | SQL Joins + Data Modeling | Completed |
 | Day 3 | SQL Window Functions | Pending |
 | Day 4 | Power BI + Data Modeling | Pending |
 | Day 5 | DAX + BI KPIs | Pending |
@@ -107,12 +107,28 @@ Topics completed:
 - ACOS
 - NULLIF for divide-by-zero handling
 
+### Day 2 Completed
+
+Covered SQL joins and data modeling basics.
+
+Topics completed:
+
+- INNER JOIN
+- LEFT JOIN
+- RIGHT JOIN
+- FULL JOIN
+- Fact Table
+- Dimension Table
+- Star Schema
+- Joining fact and dimension tables
+- Campaign-level and product-level analysis using joins
+
 ---
 
 ## Final Checklist
 
 - [x] Complete Day 1
-- [ ] Complete Day 2
+- [x] Complete Day 2
 - [ ] Complete Day 3
 - [ ] Complete Day 4
 - [ ] Complete Day 5
